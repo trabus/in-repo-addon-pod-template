@@ -1,0 +1,9 @@
+{
+  "name": "foo-bar",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "ember-cli-htmlbars": "0.7.4"
+  }
+}
